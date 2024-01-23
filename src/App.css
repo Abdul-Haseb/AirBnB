@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#userInput::-webkit-scrollbar {
+  display: none !important;
+}
+#chatBody::-webkit-scrollbar {
+  display: none !important;
+}
